@@ -1,0 +1,93 @@
+
+#home{
+margin-top: -2%;  
+height:500px; 
+}
+.bg-about {
+	    background-image: url(../img/abt.jpg);
+    height: 500px;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: #2d3c52;
+}
+.bg-img {
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.position-relative {
+    position: relative;
+}
+.bg-about .block-transparent {
+    margin: -60px 0 0;
+	color: aliceblue;
+}
+.bg-bg .block-transparent {
+    margin: -60px 0 0;
+	color: aliceblue;
+}
+.block-transparent {
+    width: 100%;
+	text-align:center;
+    float: left;
+    margin: -170px 0 0;
+   
+    top: 50%;
+    z-index: 5;
+}
+.position-absolute {
+    position: absolute;
+}
+#tgh{
+	text-align:center;
+	background-color:#f9e7b6;
+	margin-top: 4%; 
+	
+}
+.detail{
+	text-align:center;
+}
+.detail  p{
+	    margin: 1% 17% 0%;
+    font-size: 18px;
+    color: gray;
+}
+.cont{
+margin: 1% 5% 1%;
+}
+.cont img{
+	width:100%;
+}
+.cont h3{
+	font-family:serif;
+	font-size:21px;
+}
+#tgh h1{
+	padding-top:3%;
+}
+.bg-bg {
+	    background-image: url(../img/bg.jpg);
+    height: 300px;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: #2d3c52;
+}
+#xyz p{
+		    margin: 1% 17% 0%;
+    font-size: 18px;
+    color: gray;
+	text-align:center;
+}
+#xyz h4{
+		text-align:center;
+
+}
+@media (max-width: 360px){
+#home{
+margin-top: -2%;    
+}
+	
+}

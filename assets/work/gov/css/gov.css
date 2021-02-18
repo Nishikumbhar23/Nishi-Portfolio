@@ -1,0 +1,308 @@
+.navbar img{
+	    vertical-align: middle;
+	height:30px;
+	width:36px;
+    margin-top: -3px;
+}
+body{
+	background-color:gray;
+
+}
+.border {
+    border: 1px solid #cccccc;
+}
+.img1{
+    margin-top:11px;
+}
+
+.abc{
+	margin-left:-4px;
+}
+.img1 h5{
+	    margin-top: -21px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+ul>li>a {
+    position: relative;
+    display: block;
+    padding: 5px 10px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+    border-right: 1px solid silver;
+}
+
+ul >li>a{
+    color: #0f0f10;
+    text-decoration: none;
+	margin-right:12px;
+	letter-spacing: -0.5px;      
+}
+.navbar-brand{
+	color:black;
+	padding-left:0%;
+	margin-left:0px;
+	
+}
+
+
+	.scnd
+{
+	    height: 112px;
+    background: #2a2a80;
+           margin-top: -30px;
+}
+.carousel {
+    position: relative;
+    margin-top: -21px;
+}
+
+#highlights{
+	padding-top:9px;
+	text-align:center;
+	padding-left:45%;
+}
+
+	.hlgt
+{
+    width: 96%;
+    margin-top: 11px;
+    height: 619px;
+    margin-left: -10px;
+    box-shadow: 1px 1px 0px 0px #dbdbdb;
+    margin-bottom: 34px;
+    padding: 0 0 40px;
+}
+.one {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: -27px;
+}
+.hlgt h2
+{
+	color: #383838;
+    font-size: 30px;
+    text-align: center;
+    font-family: Lato,sans-serif!important;
+    font-weight: 300;
+    text-transform: uppercase;
+       padding: 0px 0 45px;
+}
+
+.col-md-3 a
+{
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    color: #3192b0;
+    margin: 0;
+	padding: 0;
+}
+.mkb
+{
+	background: url(../img/manki-baat.jpg)  0 0 no-repeat;
+	background-size: 76%;
+    margin-left: 50px;
+    padding-left: 2px;   
+    width: 260px;
+    height: 211px;
+}
+
+.opfm
+{
+	background: url(../img/open-forum.jpg)  0 0 no-repeat;
+	background-size: 76%;
+    margin-left: -17px;
+    padding-left: 2px;
+    width: 260px;
+    height: 211px;
+}
+.cc
+{
+	background: url(../img/creative-corner.jpg)  0 0 no-repeat;
+	background-size: 76%;
+    margin-left: -17px;
+    padding-left: 2px;
+    width: 280px;
+    height: 211px;
+	width: 250px;
+}
+.cd
+{
+	background: url(../img/cd.jpg)  0 0 no-repeat;
+	background-size: 76%;
+    margin-left: -17px;
+    padding-left: 2px;
+    width: 280px;
+    height: 211px;
+    margin-bottom: 47px;
+}
+
+.top1{
+	
+	font-size:15px;
+
+	color: white;
+
+}
+.top
+{
+	font-size:15px;
+	margin-left: 61px;
+	color: white;
+}
+.num
+{
+	font-size: 28px;
+    margin-left: 139px;
+	color: white;
+}
+.lne
+{
+	font-size: 16px;
+    margin-top: 74px;
+    margin-left: -10px;
+	color: white;
+}
+
+.groups
+{
+	color: white;
+    background: green;
+    padding: 8px 20px;
+    margin: 14px 4px;
+}
+.grps
+{
+	font-size: 16px;
+    margin: -21px 77px;
+    color: white;
+}
+
+.fid
+{
+	font-family: open_sanslight;
+    font-size: 433%;
+    line-height: 78px;
+    color: #3657a3;
+    margin-right: 66px;
+}
+.usrcount
+{
+	font-size: 22px;
+    margin-top: -13px;
+    margin-left: 49px;
+    margin-right: 14px;
+}
+
+#focus{
+	margin-left:45%;
+	margin-top: -38px;
+}
+.infcs{
+	padding-top:9px;
+	padding-left:45%;
+}
+.infcs1{
+	padding-top:9px;
+	padding-left:45%;
+	padding-top:50px;
+}
+.infocus h5{
+	    line-height: 1.3;
+}
+#fcs{
+	    width: 202px;
+    height: 139px;
+    margin-top: 4px;
+    margin-left: -11px;
+	}
+
+.infocus{
+	    border: 1px solid #d3d3d3;
+		margin-left:27px;
+}
+
+.far{
+	height: 80px;
+    margin-top: 13px;
+    padding-top: 13px;
+}
+
+.fa{
+    height: 80px;
+    margin-top: 13px;
+    padding-top: 14px;
+	margin-left: 5px;
+}
+.xyz{
+	  border:1px solid black;
+}
+
+.sym{
+	margin-top:46px;
+}
+
+.usr{
+	background-color:green;
+	color:white;
+}
+
+.chk{
+	background-color:orange;
+	color:white;
+	    margin-left: 18px;
+}
+
+.cmt{
+	background-color:#008bbb;
+	color:white;
+	    margin-left: 18px;
+}
+
+.bar{
+	background-color:#14b3b9;
+	color:white;
+	    margin-left: 18px;
+}
+.pen{
+	background-color:#fba714;
+	color:white;    margin-left: 18px;
+}
+
+
+.phn{
+	background-color:#ca0c5c;
+	color:white;
+	    margin-left: 18px
+		}
+		
+.sym h1{
+	margin-top:-6px;
+}
+
+.footer{
+	margin-top:40px;
+	border:1px solid black;
+	background: linear-gradient(to bottom,#2f4066 0%,#192135 100%);
+	    padding: 25px 0 15px;
+}
+
+.footer a{
+color: #b2b2b2;
+ margin-right: -11px;
+    letter-spacing: -0.5px;
+    font-size: 17px;
+ text-decoration: none;	
+     margin-left: -50px;
+}
+
+.fnt{
+	color:gray;
+}
+
+.fnt h5{
+	margin-left:5px;
+}
